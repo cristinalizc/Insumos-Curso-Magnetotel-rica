@@ -134,7 +134,7 @@ print("SimPEG version:", SimPEG.__version__)
 
 ## 📬 Contacto
 
-Para preguntas o comentarios sobre el material del curso, puedes contactar a los organizadores a través de la **Universidad Industrial de Santander (UIS)**.
+Para preguntas o comentarios sobre el material del curso, puedes contactar al correo: kristinalizcano@gmail.com.
 
 ---
 
