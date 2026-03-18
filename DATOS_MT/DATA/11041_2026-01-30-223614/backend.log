@@ -1,0 +1,243 @@
+Dec 13 17:20:24 mtu8-11041 backend[876]: Initiating messenger
+Dec 13 17:20:24 mtu8-11041 backend[876]: 
+    ``                                                                     `   
+   `````                                                                 ````  
+   ``````                            ````                              ``````  
+   ````````                  ````````  `````                        `````````  
+     ```````                  `````````````````                   ```````````  
+        ``````                         ````````                 `````````      
+  ````     ````                           ````                ```````     ``   
+  ````````   ```                           ```             ``````    ```````   
+  ````````````   ```                       ```             ``   ```````````    
+         ``````  ```````                 ````        ````  ```````````````     
+    `````        ````````````         `````     ````````  `````                
+    ```````````` ```````````````  ```````` ````````````  ```````````````       
+     ````          `````````   `````````  ````````````   ``````````````        
+          ````````  ``````  ``````````  ````````````   `````                   
+        `````````     ``  ``````````  ````````````    `````````````            
+         `````    ````  ```````````  `````````    `````    ``````              
+                `````` ```````````  ````      ``  ```````                      
+              ```````  ``````````      ```  `````   ```````                    
+                      ```````````  ```````  ``````    ``                       
+                      ```````````  ```````  ```````                            
+                       ``````````       ``                                     
+                       ```````````                                             
+                        ``````````                                             
+                         ``````````                                            
+                           `````````                                           
+                            ````````                                           
+                                ```                                            
+                                  `                                            
+                  P H O E N I X        G E O P H Y S I C S                     
+                                2 0 1 3                                        
+                                                                               
+                                                     v2.45.0.2                                 
+                                  11041
+Dec 13 17:20:24 mtu8-11041 backend[876]: Panel Map loaded, discovery mode: 1
+Dec 13 17:20:24 mtu8-11041 backend[876]: Mapped device @ [1-1.2], enum <8>, to channel index <0>
+Dec 13 17:20:24 mtu8-11041 backend[876]: {1}<3> CLEARED: Missing channels
+Dec 13 17:20:24 mtu8-11041 backend[876]: Timing Module Hardware: BTM02-A
+Dec 13 17:20:25 mtu8-11041 backend[876]: Timing Module Firmware: 00051903X
+Dec 13 17:20:25 mtu8-11041 backend[876]: Timing Module Bootloader version: 00000016
+Dec 13 17:20:26 mtu8-11041 backend[876]: Timing Module CPLD: 236B
+Dec 13 17:20:26 mtu8-11041 backend[876]: Timing Module Serial: 033F40
+Dec 13 17:20:27 mtu8-11041 backend[876]: {2}<3> CLEARED: Missing timing module
+Dec 13 17:20:27 mtu8-11041 backend[876]: Mapped device @ [2-1.2.2], enum <9>, to channel index <3>
+Dec 13 17:20:27 mtu8-11041 backend[876]: Mapped device @ [1-1.4], enum <9>, to channel index <1>
+Dec 13 17:20:27 mtu8-11041 backend[876]: Mapped device @ [2-1.2.4], enum <10>, to channel index <4>
+Dec 13 17:20:27 mtu8-11041 backend[876]: Mapped device @ [1-1.5], enum <10>, to channel index <2>
+Dec 13 17:20:27 mtu8-11041 backend[876]: {5}<3> CLEARED: Hardware not initialized yet
+Dec 13 17:20:27 mtu8-11041 backend[876]: Mapped channel DATA @ enum <10>, to channel index <4>
+Dec 13 17:20:27 mtu8-11041 backend[876]: Mapped channel DATA @ enum <9>, to channel index <3>
+Dec 13 17:20:27 mtu8-11041 backend[876]: Mapped channel DATA @ enum <10>, to channel index <2>
+Dec 13 17:20:27 mtu8-11041 backend[876]: Mapped channel DATA @ enum <9>, to channel index <1>
+Dec 13 17:20:27 mtu8-11041 backend[876]: Mapped channel DATA @ enum <8>, to channel index <0>
+Dec 13 17:20:27 mtu8-11041 backend[876]: Discovered Channel module at 8
+Dec 13 17:20:27 mtu8-11041 backend[876]: Discovered Timing module at 8
+Dec 13 17:20:27 mtu8-11041 backend[876]: Discovered Channel module at 9
+Dec 13 17:20:27 mtu8-11041 backend[876]: Discovered Channel module at 9
+Dec 13 17:20:27 mtu8-11041 backend[876]: Discovered Channel module at 10
+Dec 13 17:20:27 mtu8-11041 backend[876]: Discovered Channel module at 10
+Dec 13 17:20:27 mtu8-11041 backend[876]: Discovered motherboard at 11
+Dec 13 17:20:28 mtu8-11041 backend[876]: Timing Module Hardware: BTM02-A
+Dec 13 17:20:28 mtu8-11041 backend[876]: Backplane Hardware: BMB02-A
+Dec 13 17:20:28 mtu8-11041 backend[876]: Backplane Firmware: 00010039X
+Dec 13 17:20:28 mtu8-11041 backend[876]: Backplane Serial: 033DED
+Dec 13 17:20:28 mtu8-11041 backend[876]: Backplane Bootloader version: 00000016
+Dec 13 17:20:28 mtu8-11041 backend[876]: {37}<0> SD card ready
+Dec 13 17:20:28 mtu8-11041 backend[876]: GNSS object found in config file, GPS - 1, BeiDou - 0, GLONASS -0, Galileo - 0, QZSS - 1, SBAS - 0
+Dec 13 17:20:28 mtu8-11041 backend[876]: Configuration loaded with 0 scheduled tasks
+Dec 13 17:20:28 mtu8-11041 backend[876]: Ch H2 [0]: Setting config for sensor type: MTC-155
+Dec 13 17:20:28 mtu8-11041 backend[876]: Ch0: Setting dac: 8000
+Dec 13 17:20:28 mtu8-11041 backend[876]: Channel Module #0 Serial #: 033ABC
+Dec 13 17:20:28 mtu8-11041 backend[876]: Channel Module #0 Firmware: 0001001FX
+Dec 13 17:20:28 mtu8-11041 backend[876]: Chanel Module #0 Hardware: BCM05-B
+Dec 13 17:20:28 mtu8-11041 backend[876]: Channel module Bootloader version: 00000016
+Dec 13 17:20:28 mtu8-11041 backend[876]: Sensor @ channel #0 switched to BMT mode
+Dec 13 17:20:28 mtu8-11041 backend[876]: Ch0: Setting dac: 8000
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch0):SMS I 17 00 SMT06-B    - 58211
+Dec 13 17:20:29 mtu8-11041 backend[876]: For Channel idx 0 Model is SMT06-B, Serial is 58211
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch0):SMS F 03 00 B
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module #1 Serial #: 033AB9
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module #1 Firmware: 0001001FX
+Dec 13 17:20:29 mtu8-11041 backend[876]: Chanel Module #1 Hardware: BCM05-B
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel module Bootloader version: 00000016
+Dec 13 17:20:29 mtu8-11041 backend[876]: Ch1: Setting dac: 8000
+Dec 13 17:20:29 mtu8-11041 backend[876]: Ch H1 [2]: Setting config for sensor type: MTC-155
+Dec 13 17:20:29 mtu8-11041 backend[876]: Ch2: Setting dac: 8000
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module #2 Serial #: 033AAB
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module #2 Firmware: 0001001FX
+Dec 13 17:20:29 mtu8-11041 backend[876]: Chanel Module #2 Hardware: BCM05-B
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel module Bootloader version: 00000016
+Dec 13 17:20:29 mtu8-11041 backend[876]: Sensor @ channel #2 switched to BMT mode
+Dec 13 17:20:29 mtu8-11041 backend[876]: Ch2: Setting dac: 8000
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch2):SMS I 17 00 SMT06-B    - 58207
+Dec 13 17:20:29 mtu8-11041 backend[876]: For Channel idx 2 Model is SMT06-B, Serial is 58207
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch2):SMS F 03 00 B
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module #3 Serial #: 033AA8
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module #3 Firmware: 0001001FX
+Dec 13 17:20:29 mtu8-11041 backend[876]: Chanel Module #3 Hardware: BCM05-B
+Dec 13 17:20:29 mtu8-11041 backend[876]: Ch H3 [3]: Setting config for sensor type: MTC-155
+Dec 13 17:20:29 mtu8-11041 backend[876]: Ch3: Setting dac: 8000
+Dec 13 17:20:29 mtu8-11041 backend[876]: Sensor @ channel #3 switched to BMT mode
+Dec 13 17:20:29 mtu8-11041 backend[876]: Ch3: Setting dac: 8000
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel module Bootloader version: 00000016
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch3):SMS I 17 00 SMT06-B    - 58240
+Dec 13 17:20:29 mtu8-11041 backend[876]: For Channel idx 3 Model is SMT06-B, Serial is 58240
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch3):SMS F 03 00 B
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module #4 Serial #: 033AB5
+Dec 13 17:20:29 mtu8-11041 backend[876]: Ch4: Setting dac: 8000
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel Module #4 Firmware: 0001001FX
+Dec 13 17:20:29 mtu8-11041 backend[876]: Chanel Module #4 Hardware: BCM05-B
+Dec 13 17:20:29 mtu8-11041 backend[876]: Channel module Bootloader version: 00000016
+Dec 13 17:20:29 mtu8-11041 backend[876]: 5 channel modules initialized from configuration file
+Dec 13 17:20:29 mtu8-11041 backend[876]: Initializing screen
+Dec 13 17:20:29 mtu8-11041 backend[876]: Socket: Listening on port 61206
+Dec 13 17:20:29 mtu8-11041 backend[876]: {"name":"genome", "backend_version":"v2.45.0.2", "receiver_model":"RMT08-A", "receiver_commercial_name":"MTU-5C/DS", "backplane_hw_ver":"BMB02-A ", "backplane_fw_ver":"00010039X", "backplane_boot_ver":"00000016", "timingmodule_hw_ver":"BTM02-A ", "timingmodule_fw_ver":"00051903X", "timingmodule_boot_ver":"00000016", "timingmodule_cpld":"236B", "chans_hw_ver":["BCM05-B ","BCM05-B ","BCM05-B ","BCM05-B ","BCM05-B "], "chan_ser_num" : ["033ABC","033AB9","033AAB","033AA8","033AB5"], "chan_fw_ver" : ["0001001FX","0001001FX","0001001FX","0001001FX","0001001FX"], "chan_bootloader_ver" : ["00000016","00000016","00000016","00000016","00000016"]}
+Dec 13 17:20:34 mtu8-11041 mqtt[940]: No control config in config.json, disabling net control
+Dec 13 17:23:08 mtu8-11041 backend[876]: {18}<0> Time synchronized and enough satellites present
+Dec 13 17:23:08 mtu8-11041 backend[876]: Timing Module Ready for ACQ (37 D 30)
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch0: Setting dac: 8000
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch1: Setting dac: 8000
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch2: Setting dac: 8000
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch3: Setting dac: 8000
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch4: Setting dac: 8000
+Jan 30 22:35:00 mtu8-11041 backend[876]: {72}<0> Compensating DC levels
+Jan 30 22:35:00 mtu8-11041 backend[876]: Disabling ethernet interface as requested by config file
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch H2 [0]: Setting config for sensor type: MTC-155
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch0: Setting dac: 8000
+Jan 30 22:35:00 mtu8-11041 backend[876]: Sensor @ channel #0 switched to BMT mode
+Jan 30 22:35:00 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch0):SMS I 17 00 SMT06-B    - 58211
+Jan 30 22:35:00 mtu8-11041 backend[876]: For Channel idx 0 Model is SMT06-B, Serial is 58211
+Jan 30 22:35:00 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch0):SMS F 03 00 B
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch H1 [2]: Setting config for sensor type: MTC-155
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch2: Setting dac: 8000
+Jan 30 22:35:00 mtu8-11041 backend[876]: Sensor @ channel #2 switched to BMT mode
+Jan 30 22:35:00 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch2):SMS I 17 00 SMT06-B    - 58207
+Jan 30 22:35:00 mtu8-11041 backend[876]: For Channel idx 2 Model is SMT06-B, Serial is 58207
+Jan 30 22:35:00 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch2):SMS F 03 00 B
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch H3 [3]: Setting config for sensor type: MTC-155
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch3: Setting dac: 8000
+Jan 30 22:35:00 mtu8-11041 backend[876]: Sensor @ channel #3 switched to BMT mode
+Jan 30 22:35:00 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch3):SMS I 17 00 SMT06-B    - 58240
+Jan 30 22:35:00 mtu8-11041 backend[876]: For Channel idx 3 Model is SMT06-B, Serial is 58240
+Jan 30 22:35:00 mtu8-11041 backend[876]: Channel Module Sensor Message (Ch3):SMS F 03 00 B
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch0: Starting AUTODC ACQ
+Jan 30 22:35:00 mtu8-11041 backend[876]:  >> Connected to channel module 0 (H2)
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch1: Starting AUTODC ACQ
+Jan 30 22:35:00 mtu8-11041 backend[876]:  >> Connected to channel module 1 (E1)
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch2: Starting AUTODC ACQ
+Jan 30 22:35:00 mtu8-11041 backend[876]:  >> Connected to channel module 2 (H1)
+Jan 30 22:35:00 mtu8-11041 backend[876]: Ch3: Starting AUTODC ACQ
+Jan 30 22:35:00 mtu8-11041 backend[876]:  >> Connected to channel module 3 (H3)
+Jan 30 22:35:01 mtu8-11041 backend[876]: Ch4: Starting AUTODC ACQ
+Jan 30 22:35:01 mtu8-11041 backend[876]:  >> Connected to channel module 4 (E2)
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch4 AvgTotal is -138233 @ gain=1.000000
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch4 needs a DAC of: 32228 [7DE4]
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch3 AvgTotal is 575442 @ gain=4.000000
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch3 needs a DAC of: 33330 [8232]
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch2 AvgTotal is -245001 @ gain=4.000000
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch2 needs a DAC of: 32529 [7F11]
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch1 AvgTotal is 114105 @ gain=1.000000
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch1 needs a DAC of: 33214 [81BE]
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch0 AvgTotal is -332027 @ gain=4.000000
+Jan 30 22:35:11 mtu8-11041 backend[876]: --> Ch0 needs a DAC of: 32444 [7EBC]
+Jan 30 22:35:13 mtu8-11041 backend[876]:  -- Disconnected from channel module 0 (H2)
+Jan 30 22:35:13 mtu8-11041 backend[876]:  -- Disconnected from channel module 1 (E1)
+Jan 30 22:35:13 mtu8-11041 backend[876]:  -- Disconnected from channel module 2 (H1)
+Jan 30 22:35:13 mtu8-11041 backend[876]:  -- Disconnected from channel module 3 (H3)
+Jan 30 22:35:13 mtu8-11041 backend[876]:  -- Disconnected from channel module 4 (E2)
+Jan 30 22:35:14 mtu8-11041 backend[876]: Ch0: Setting dac: 8000
+Jan 30 22:35:14 mtu8-11041 backend[876]: Ch1: Setting dac: 8000
+Jan 30 22:35:14 mtu8-11041 backend[876]: Ch2: Setting dac: 8000
+Jan 30 22:35:14 mtu8-11041 backend[876]: Ch3: Setting dac: 8000
+Jan 30 22:35:15 mtu8-11041 backend[876]: Ch4: Setting dac: 8000
+Jan 30 22:35:15 mtu8-11041 backend[876]: {75}<0> Detecting magnetic sensors
+Jan 30 22:35:15 mtu8-11041 backend[876]: Disabling ethernet interface as requested by config file
+Jan 30 22:35:15 mtu8-11041 backend[876]: Ch0: Setting dac: 8000
+Jan 30 22:35:15 mtu8-11041 backend[876]: Ch2: Setting dac: 8000
+Jan 30 22:35:15 mtu8-11041 backend[876]: Ch3: Setting dac: 8000
+Jan 30 22:35:15 mtu8-11041 backend[876]: Ch0: Starting MAG_DETECT ACQ
+Jan 30 22:35:15 mtu8-11041 backend[876]:  >> Connected to channel module 0 (H2)
+Jan 30 22:35:15 mtu8-11041 backend[876]: Ch2: Starting MAG_DETECT ACQ
+Jan 30 22:35:15 mtu8-11041 backend[876]:  >> Connected to channel module 2 (H1)
+Jan 30 22:35:15 mtu8-11041 backend[876]: Ch3: Starting MAG_DETECT ACQ
+Jan 30 22:35:15 mtu8-11041 backend[876]:  >> Connected to channel module 3 (H3)
+Jan 30 22:35:34 mtu8-11041 backend[876]:  -- Disconnected from channel module 0 (H2)
+Jan 30 22:35:34 mtu8-11041 backend[876]:  -- Disconnected from channel module 2 (H1)
+Jan 30 22:35:34 mtu8-11041 backend[876]:  -- Disconnected from channel module 3 (H3)
+Jan 30 22:35:34 mtu8-11041 backend[876]: H2	2Hz 0.007317	5Hz 0.007320	10Hz 0.007316	20Hz 0.007305	MTC-1xx
+Jan 30 22:35:34 mtu8-11041 backend[876]: H1	2Hz 0.007397	5Hz 0.007327	10Hz 0.007317	20Hz 0.007327	MTC-1xx
+Jan 30 22:35:34 mtu8-11041 backend[876]: H3	2Hz 0.007261	5Hz 0.007288	10Hz 0.007285	20Hz 0.007286	MTC-1xx
+Jan 30 22:35:34 mtu8-11041 backend[876]: Ch0: Setting dac: 8000
+Jan 30 22:35:34 mtu8-11041 backend[876]: Ch1: Setting dac: 8000
+Jan 30 22:35:35 mtu8-11041 backend[876]: Ch2: Setting dac: 8000
+Jan 30 22:35:35 mtu8-11041 backend[876]: Ch3: Setting dac: 8000
+Jan 30 22:35:35 mtu8-11041 backend[876]: Ch4: Setting dac: 8000
+Jan 30 22:35:35 mtu8-11041 backend[876]: {71}<0> Measuring pot resistance
+Jan 30 22:35:35 mtu8-11041 backend[876]: Disabling ethernet interface as requested by config file
+Jan 30 22:35:35 mtu8-11041 backend[876]: Ch1: Setting dac: 8000
+Jan 30 22:35:35 mtu8-11041 backend[876]: Ch4: Setting dac: 8000
+Jan 30 22:35:35 mtu8-11041 backend[876]: Ch1: Starting POTRES ACQ
+Jan 30 22:35:35 mtu8-11041 backend[876]:  >> Connected to channel module 1 (E1)
+Jan 30 22:35:35 mtu8-11041 backend[876]: Ch4: Starting POTRES ACQ
+Jan 30 22:35:35 mtu8-11041 backend[876]:  >> Connected to channel module 4 (E2)
+Jan 30 22:36:10 mtu8-11041 backend[876]:  -- Disconnected from channel module 1 (E1)
+Jan 30 22:36:10 mtu8-11041 backend[876]:  -- Disconnected from channel module 4 (E2)
+Jan 30 22:36:10 mtu8-11041 backend[876]: Pot Res E1[-] @ 2  Hz    Off 12230.478971  On 12707.697423
+Jan 30 22:36:10 mtu8-11041 backend[876]: Pot Res E1[-] @ 5  Hz    Off 12227.495894  On 12646.729778
+Jan 30 22:36:10 mtu8-11041 backend[876]: Pot Res E1[-] @ 10 Hz    Off 12226.379329  On 12578.099120
+Jan 30 22:36:10 mtu8-11041 backend[876]: Pot Res E1[+] @ 2  Hz    Off 16185.873441  On 15151.842996
+Jan 30 22:36:10 mtu8-11041 backend[876]: Pot Res E1[+] @ 5  Hz    Off 16185.187101  On 15085.253338
+Jan 30 22:36:10 mtu8-11041 backend[876]: Pot Res E1[+] @ 10 Hz    Off 16184.943887  On 15007.592211
+Jan 30 22:36:11 mtu8-11041 backend[876]: Pot Res E2[-] @ 2  Hz    Off 28566.715283  On 27705.035201
+Jan 30 22:36:11 mtu8-11041 backend[876]: Pot Res E2[-] @ 5  Hz    Off 28564.127756  On 27603.218468
+Jan 30 22:36:11 mtu8-11041 backend[876]: Pot Res E2[-] @ 10 Hz    Off 28563.171936  On 27472.985069
+Jan 30 22:36:11 mtu8-11041 backend[876]: Pot Res E2[+] @ 2  Hz    Off 19350.024261  On 19109.539665
+Jan 30 22:36:11 mtu8-11041 backend[876]: Pot Res E2[+] @ 5  Hz    Off 19349.037708  On 19027.776916
+Jan 30 22:36:11 mtu8-11041 backend[876]: Pot Res E2[+] @ 10 Hz    Off 19348.682301  On 18935.079663
+Jan 30 22:36:11 mtu8-11041 backend[876]: {64}<0> Instrument idle
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch0: Setting dac: 7EBC
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch1: Setting dac: 81BE
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch2: Setting dac: 7F11
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch3: Setting dac: 8232
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch4: Setting dac: 7DE4
+Jan 30 22:36:12 mtu8-11041 backend[876]: {65}<0> Acquiring Data
+Jan 30 22:36:12 mtu8-11041 backend[876]: Disabling ethernet interface as requested by config file
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch0: Starting ACQ
+Jan 30 22:36:12 mtu8-11041 backend[876]:  >> Connected to channel module 0 (H2)
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch1: Starting ACQ
+Jan 30 22:36:12 mtu8-11041 backend[876]:  >> Connected to channel module 1 (E1)
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch2: Starting ACQ
+Jan 30 22:36:12 mtu8-11041 backend[876]:  >> Connected to channel module 2 (H1)
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch3: Starting ACQ
+Jan 30 22:36:12 mtu8-11041 backend[876]:  >> Connected to channel module 3 (H3)
+Jan 30 22:36:12 mtu8-11041 backend[876]: Ch4: Starting ACQ
+Jan 30 22:36:12 mtu8-11041 backend[876]:  >> Connected to channel module 4 (E2)
+Jan 31 16:16:58 mtu8-11041 backend[876]: Stop button pressed. Stop acquisition...
+Jan 31 16:16:58 mtu8-11041 backend[876]: {36}<0> Transferring files to SD card
+Jan 31 16:16:59 mtu8-11041 backend[876]:  -- Disconnected from channel module 0 (H2)
+Jan 31 16:16:59 mtu8-11041 backend[876]:  -- Disconnected from channel module 1 (E1)
+Jan 31 16:16:59 mtu8-11041 backend[876]:  -- Disconnected from channel module 2 (H1)
+Jan 31 16:16:59 mtu8-11041 backend[876]:  -- Disconnected from channel module 3 (H3)
+Jan 31 16:16:59 mtu8-11041 backend[876]:  -- Disconnected from channel module 4 (E2)

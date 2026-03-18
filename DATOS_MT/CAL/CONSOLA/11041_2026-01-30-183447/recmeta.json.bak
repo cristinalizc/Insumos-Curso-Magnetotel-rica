@@ -1,0 +1,307 @@
+{
+	"name":	"recording",
+	"version":	11,
+	"chconfig":	{
+		"name":	"chconfig",
+		"config_index":	0,
+		"version":	5,
+		"chans":	[{
+				"tag":	"H2",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	1,
+				"at":	0,
+				"lp":	1000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033ABC",
+				"fw":	"0001001FX",
+				"cn":	"001B0000",
+				"min":	-4244763,
+				"max":	2631043,
+				"sampleRate":	24000,
+				"frameSat":	0,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	6,
+				"version":	1,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	0,
+				"length2":	0
+			}
+, {
+				"tag":	"E1",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	8,
+				"at":	0,
+				"lp":	1000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033AB9",
+				"fw":	"0001001FX",
+				"cn":	"10390000",
+				"min":	-4519149,
+				"max":	2627509,
+				"sampleRate":	24000,
+				"frameSat":	0,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	6,
+				"version":	1,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	50,
+				"length2":	50
+			}
+, {
+				"tag":	"H1",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	1,
+				"at":	0,
+				"lp":	1000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033AAB",
+				"fw":	"0001001FX",
+				"cn":	"001B0000",
+				"min":	-4536824,
+				"max":	2632054,
+				"sampleRate":	24000,
+				"frameSat":	0,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	6,
+				"version":	1,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	0,
+				"length2":	0
+			}
+, {
+				"tag":	"H3",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	1,
+				"at":	0,
+				"lp":	1000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033AA8",
+				"fw":	"0001001FX",
+				"cn":	"001B0000",
+				"min":	-4177582,
+				"max":	2634064,
+				"sampleRate":	24000,
+				"frameSat":	0,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	6,
+				"version":	1,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	0,
+				"length2":	0
+			}
+, {
+				"tag":	"E2",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	8,
+				"at":	0,
+				"lp":	1000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033AB5",
+				"fw":	"0001001FX",
+				"cn":	"10390000",
+				"min":	-4316243,
+				"max":	2639971,
+				"sampleRate":	24000,
+				"frameSat":	0,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	6,
+				"version":	1,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	50,
+				"length2":	50
+			}
+]
+	}
+,
+	"decimation":	{
+		"divider_id":	-1,
+		"interleave_lev0":	0,
+		"interleave_lev1":	0,
+		"version_1":	{
+			"period":	0,
+			"interleave_96k":	0,
+			"interleave_24k":	0,
+			"interleave_2400":	0,
+			"interleave_150":	0,
+			"interleave_30":	0
+		}
+
+	}
+,
+	"layout":	{
+		"Company_Name":	"",
+		"Layout_Type":	4,
+		"Notes":	"",
+		"Operator":	"",
+		"Station_Name":	"",
+		"Survey_Name":	"Test Paralelo San Rafael de Lebrija",
+		"version":	6
+	}
+,
+	"timing":	{
+		"name":	"timing",
+		"version":	5,
+		"gps_lat":	7.611000,
+		"gps_lon":	-73.609905,
+		"gps_alt":	75.108464,
+		"tm_hw_ver":	"BTM02-A ",
+		"tm_serial":	"033F40",
+		"tm_fw_ver":	"00051903X",
+		"tm_cpld":	"236B",
+		"tm_alive":	1,
+		"tm_ready":	1,
+		"tm_debug":	0,
+		"tm_timeweek":	1,
+		"tm_timeset":	1,
+		"tm_utcset":	1,
+		"tm_leapSecAtRecStart":	18,
+		"tm_leapSecNow":	18,
+		"tm_gpscount":	12,
+		"tm_satcount":	14,
+		"tm_gpsmin":	12,
+		"tm_stabidx":	394,
+		"tm_drift":	"4",
+		"tm_drift_units":	"20thMhz",
+		"gnss_constellations":	{
+			"GPS":	{
+				"configMode":	1,
+				"max_satellite":	13,
+				"version":	1
+			}
+,
+			"BeiDou":	{
+				"configMode":	0,
+				"max_satellite":	0,
+				"version":	1
+			}
+,
+			"Galileo":	{
+				"configMode":	0,
+				"max_satellite":	0,
+				"version":	1
+			}
+,
+			"GLONASS":	{
+				"configMode":	0,
+				"max_satellite":	0,
+				"version":	1
+			}
+,
+			"QZSS":	{
+				"configMode":	1,
+				"max_satellite":	0,
+				"version":	1
+			}
+,
+			"SBAS":	{
+				"configMode":	0,
+				"max_satellite":	2,
+				"version":	1
+			}
+,
+			"version":	1
+		}
+
+	}
+,
+	"motherboard":	{
+		"version":	1,
+		"mb_hw_ver":	"BMB02-A ",
+		"mb_serial":	"033DED",
+		"mb_fw_ver":	"00010039X"
+	}
+,
+	"channel_map":	{
+		"version":	1,
+		"receiver_model":	"RMT08-A",
+		"mapping":	[{
+				"idx":	0,
+				"tag":	"H2"
+			}
+, {
+				"idx":	1,
+				"tag":	"E1"
+			}
+, {
+				"idx":	2,
+				"tag":	"H1"
+			}
+, {
+				"idx":	3,
+				"tag":	"H3"
+			}
+, {
+				"idx":	4,
+				"tag":	"E2"
+			}
+]
+	}
+,
+	"instid":	"11041",
+	"uptime":	625,
+	"bat_ext":	13.299000,
+	"temp_cel":	49,
+	"sampleClock":	768000,
+	"ppsDrift":	false,
+	"missingFrame":	0,
+	"rec_status":	"completed",
+	"status":	"rx_cal_int",
+	"calibration":	{
+		"type":	"receiver",
+		"passes_requested":	1,
+		"delete_timeseries":	true
+	}
+,
+	"acqtime":	316,
+	"start":	1769798087,
+	"stop":	1769798403,
+	"systime":	1769798403,
+	"dt":	63847792640,
+	"df":	57996607488,
+	"sw_version":	"v2.45.0.2",
+	"receiver_model":	"RMT08-A",
+	"receiver_commercial_name":	"MTU-5C/DS",
+	"txdconfig":	{
+		"chanconfig":	[],
+		"receiver":	"",
+		"txdSched":	"",
+		"version":	2
+	}
+,
+	"surveyTechnique":	1
+}

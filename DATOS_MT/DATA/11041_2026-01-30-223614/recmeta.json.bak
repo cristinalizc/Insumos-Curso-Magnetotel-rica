@@ -1,0 +1,314 @@
+{
+	"name":	"recording",
+	"version":	11,
+	"chconfig":	{
+		"name":	"chconfig",
+		"config_index":	0,
+		"version":	5,
+		"chans":	[{
+				"tag":	"H2",
+				"ty":	"M",
+				"on":	1,
+				"srd":	32,
+				"pg":	1,
+				"at":	0,
+				"lp":	10000,
+				"ga":	4,
+				"dc":	32444,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033ABC",
+				"fw":	"0001001FX",
+				"cn":	"04030000",
+				"min":	-8388608,
+				"max":	8388607,
+				"sampleRate":	24000,
+				"frameSat":	24,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	1061,
+				"version":	1,
+				"model_detected_analog":	"MTC-1xx",
+				"model_detected_digital":	"SMT06-B",
+				"type":	14,
+				"type_name":	"MTC-155",
+				"serial_config":	0,
+				"serial":	58211,
+				"serial_detected":	58211
+			}
+, {
+				"tag":	"E1",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	8,
+				"at":	0,
+				"lp":	10000,
+				"ga":	1,
+				"dc":	33214,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033AB9",
+				"fw":	"0001001FX",
+				"cn":	"10280000",
+				"min":	-8388608,
+				"max":	8334712,
+				"sampleRate":	24000,
+				"frameSat":	663,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	1061,
+				"version":	1,
+				"pot_p":	15081.562848,
+				"pot_n":	12644.175440,
+				"length1":	50,
+				"length2":	50
+			}
+, {
+				"tag":	"H1",
+				"ty":	"M",
+				"on":	1,
+				"srd":	32,
+				"pg":	1,
+				"at":	0,
+				"lp":	10000,
+				"ga":	4,
+				"dc":	32529,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033AAB",
+				"fw":	"0001001FX",
+				"cn":	"04030000",
+				"min":	-8388608,
+				"max":	8388607,
+				"sampleRate":	24000,
+				"frameSat":	25,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	1061,
+				"version":	1,
+				"model_detected_analog":	"MTC-1xx",
+				"model_detected_digital":	"SMT06-B",
+				"type":	14,
+				"type_name":	"MTC-155",
+				"serial_config":	0,
+				"serial":	58207,
+				"serial_detected":	58207
+			}
+, {
+				"tag":	"H3",
+				"ty":	"M",
+				"on":	1,
+				"srd":	32,
+				"pg":	1,
+				"at":	0,
+				"lp":	10000,
+				"ga":	4,
+				"dc":	33330,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033AA8",
+				"fw":	"0001001FX",
+				"cn":	"04030000",
+				"min":	-362522,
+				"max":	972223,
+				"sampleRate":	24000,
+				"frameSat":	0,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	1061,
+				"version":	1,
+				"model_detected_analog":	"MTC-1xx",
+				"model_detected_digital":	"SMT06-B",
+				"type":	14,
+				"type_name":	"MTC-155",
+				"serial_config":	0,
+				"serial":	58240,
+				"serial_detected":	58240
+			}
+, {
+				"tag":	"E2",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	8,
+				"at":	0,
+				"lp":	10000,
+				"ga":	1,
+				"dc":	32228,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"033AB5",
+				"fw":	"0001001FX",
+				"cn":	"10280000",
+				"min":	-8388608,
+				"max":	8388607,
+				"sampleRate":	24000,
+				"frameSat":	3731,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	1061,
+				"version":	1,
+				"pot_p":	19024.132081,
+				"pot_n":	27593.746246,
+				"length1":	50,
+				"length2":	50
+			}
+]
+	}
+,
+	"decimation":	{
+		"divider_id":	13,
+		"interleave_lev0":	1,
+		"interleave_lev1":	20,
+		"version_1":	{
+			"period":	600,
+			"interleave_96k":	0,
+			"interleave_24k":	1,
+			"interleave_2400":	20,
+			"interleave_150":	0,
+			"interleave_30":	1
+		}
+
+	}
+,
+	"layout":	{
+		"Company_Name":	"HDSP",
+		"Layout_Type":	0,
+		"Notes":	"Prueba 1",
+		"Operator":	"Gabriel Moreno",
+		"Station_Name":	"LaMusanda",
+		"Survey_Name":	"MT_001",
+		"version":	6
+	}
+,
+	"timing":	{
+		"name":	"timing",
+		"version":	5,
+		"gps_lat":	7.611002,
+		"gps_lon":	-73.609913,
+		"gps_alt":	79.876629,
+		"tm_hw_ver":	"BTM02-A ",
+		"tm_serial":	"033F40",
+		"tm_fw_ver":	"00051903X",
+		"tm_cpld":	"236B",
+		"tm_alive":	1,
+		"tm_ready":	1,
+		"tm_debug":	0,
+		"tm_timeweek":	1,
+		"tm_timeset":	1,
+		"tm_utcset":	1,
+		"tm_leapSecAtRecStart":	18,
+		"tm_leapSecNow":	18,
+		"tm_gpscount":	11,
+		"tm_satcount":	13,
+		"tm_gpsmin":	9,
+		"tm_stabidx":	63790,
+		"tm_drift":	"0",
+		"tm_drift_units":	"20thMhz",
+		"gnss_constellations":	{
+			"GPS":	{
+				"configMode":	1,
+				"max_satellite":	15,
+				"version":	1
+			}
+,
+			"BeiDou":	{
+				"configMode":	0,
+				"max_satellite":	0,
+				"version":	1
+			}
+,
+			"Galileo":	{
+				"configMode":	0,
+				"max_satellite":	0,
+				"version":	1
+			}
+,
+			"GLONASS":	{
+				"configMode":	0,
+				"max_satellite":	0,
+				"version":	1
+			}
+,
+			"QZSS":	{
+				"configMode":	1,
+				"max_satellite":	0,
+				"version":	1
+			}
+,
+			"SBAS":	{
+				"configMode":	0,
+				"max_satellite":	2,
+				"version":	1
+			}
+,
+			"version":	1
+		}
+
+	}
+,
+	"motherboard":	{
+		"version":	1,
+		"mb_hw_ver":	"BMB02-A ",
+		"mb_serial":	"033DED",
+		"mb_fw_ver":	"00010039X"
+	}
+,
+	"channel_map":	{
+		"version":	1,
+		"receiver_model":	"RMT08-A",
+		"mapping":	[{
+				"idx":	0,
+				"tag":	"H2"
+			}
+, {
+				"idx":	1,
+				"tag":	"E1"
+			}
+, {
+				"idx":	2,
+				"tag":	"H1"
+			}
+, {
+				"idx":	3,
+				"tag":	"H3"
+			}
+, {
+				"idx":	4,
+				"tag":	"E2"
+			}
+]
+	}
+,
+	"instid":	"11041",
+	"uptime":	63936,
+	"bat_ext":	12.817000,
+	"temp_cel":	60,
+	"sampleClock":	768000,
+	"ppsDrift":	false,
+	"missingFrame":	0,
+	"rec_status":	"completed",
+	"status":	"dataacq",
+	"calibration":	{
+		"type":	"none"
+	}
+,
+	"acqtime":	63645,
+	"start":	1769812574,
+	"stop":	1769876219,
+	"systime":	1769876219,
+	"dt":	63847792640,
+	"df":	63518146560,
+	"sw_version":	"v2.45.0.2",
+	"receiver_model":	"RMT08-A",
+	"receiver_commercial_name":	"MTU-5C/DS",
+	"txdconfig":	{
+		"chanconfig":	[],
+		"receiver":	"",
+		"txdSched":	"",
+		"version":	2
+	}
+,
+	"surveyTechnique":	1
+}
